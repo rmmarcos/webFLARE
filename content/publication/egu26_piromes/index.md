@@ -57,7 +57,3 @@ projects: []
 # Diapositivas (opcional)
 slides: ""
 ---
-
-{{% callout note %}}
-Add any additional information, such as supplementary notes or media, here.
-{{% /callout %}}
