@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: https://firecycle.netlify.app/
+    url: https:/projectFLARE.netlify.app/
     weight: 10
   - name: About
     url: about
