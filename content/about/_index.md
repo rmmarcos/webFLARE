@@ -15,4 +15,4 @@ The general objective of the FLARE project is to anticipate the potential increa
 - Objective 3 (O3). Estimating the probability of housing loss during extreme fires. This objective entails developing models to estimate the probability of housing loss during wildfires in Spain. These models will help predict conditional losses in the event of large fires.
 - Objective 4 (O4). Assessing the impact of increasing weather extremes and urbanization on the probability of catastrophic fires. This objective involves estimating the expected increase in losses within human communities due to rising weather extremes and urbanization. The results will include maps pinpointing areas most susceptible to significant increases in risk.
 
-Grant CNS2023-PID2023-148568OB-I00 funded by MICIU/AEI/10.13039/501100011033/.  <img src="logo_aei.png" alt="funding" style="width:263px;"> 
+Grant PID2023-148568OB-I00 funded by MICIU/AEI/10.13039/501100011033/.  <img src="logo_aei.png" alt="funding" style="width:263px;"> 

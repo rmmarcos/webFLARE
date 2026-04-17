@@ -1,23 +1,22 @@
 ---
 title: Introducing SCENFIRE at EGU
 
-event: Oral presentation at the EGU General Assembly 2025
-event_url: https://meetingorganizer.copernicus.org/EGU25/EGU25-8974.html
+event: Modeling annual burn probability using the SCENFIRE package
+event_url: https://www.egu26.eu/session/57880
 
 #location: Online meeting
 address:
 
-summary: Introducing SCENFIRE, an new approach to ensemble stochastic wildfire spread simulations.
-abstract: " we introduce SCENFIRE, a specialized selection algorithm designed to align simulated fire perimeters with specific fire size distribution scenarios."
+summary: The course seeks to introduce attendants to the use of the SCENFIRE R package (https://github.com/rmmarcos/SCENFIRE_package). SCENFIRE is a post-processing algorithm that allows the user to combine wildfire simulated perimeters into burn probability based estimates of exposure to wildfires. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-04-01T10:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
+date: "2026-05-04T8:30:00Z"
+# date_end: "2026-05-04T8:30:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate:  "2025-04-01T10:00:00Z"
+publishDate:  "2026-05-04T8:30:00Z"
 
 authors: [admin]
 tags: []
