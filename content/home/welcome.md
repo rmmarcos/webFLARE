@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Integrating empirical and stochastic models towards wildfire risk mitigation
+  FLARE: Fire Landscape Assessment - Responding to Extremes and Urban Expansion in Spain
 hero_media: logo_firecycle.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,5 +19,5 @@ design:
 
 <br>
 
-Welcome to  **FireCycle**, a research project aimed at developing new approaches for integrating empirical and stochastic methods to assess exposure to wildfires at the landscape level.
+Welcome to  **FLARE**, a research project aimed at anticipating current and future wildfire risk extremes in Spain.
 
