@@ -16,7 +16,7 @@ date: "2026-05-04T8:30:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate:  "2026-05-04T8:30:00Z"
+publishDate:  "2026-04-04T8:30:00Z"
 
 authors: [admin]
 tags: []
