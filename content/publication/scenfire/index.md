@@ -1,5 +1,5 @@
 ---
-title: "SCENFIRE: A flexible scenario-based algorithm for burn probability-based estimates of exposure to wildfires"
+title: "Assessing the protective role of active agriculture in wildfire exposure in a Mediterranean region"
 authors:
 - admin
 
